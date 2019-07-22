@@ -1,1 +1,1 @@
-# freePSD.github.io
+# freepsd.github.io
